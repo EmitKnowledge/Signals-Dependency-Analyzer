@@ -1,4 +1,4 @@
-# Signals.DependencyAnalyzer
+# Signals.Dependency.Analyzer
 
 Signals.DependencyAnalyzer is a tool designed to analyze code changes and determine all affected processes based on a given commit. It provides insights into the impact of modifications, helping developers understand dependencies and optimize workflows.
 
@@ -9,7 +9,7 @@ Signals.DependencyAnalyzer is a tool designed to analyze code changes and determ
 - **Seamless Integration**: Works within the Signals framework for enhanced development efficiency.
 
 ## Usage
-1. Checkout Signals.DependencyAnalyzer.
+1. Checkout Signals.Dependency.Analyzer.
 2. Provide the directory where .git folder is located.
 3. Run the analysis.
 4. Retrieve the generated report detailing all impacted processes.
