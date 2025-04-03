@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signals.Dependency.Analyzer", "Signals.Dependency.Analyzer.csproj", "{A9886A66-3DE5-4268-BAC0-3CB916D40395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9886A66-3DE5-4268-BAC0-3CB916D40395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9886A66-3DE5-4268-BAC0-3CB916D40395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9886A66-3DE5-4268-BAC0-3CB916D40395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9886A66-3DE5-4268-BAC0-3CB916D40395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {417669D7-E291-43CA-8A94-7F389D82876D}
+	EndGlobalSection
+EndGlobal
